@@ -1,0 +1,42 @@
+.mymeal{
+    display: flex;
+    margin: auto;
+    width: 350px;
+    border-radius: 50%;
+    height: 350px;
+    align-content: center;
+}
+.push{
+    display: flex;
+    align-items: center;
+    padding: 2rem 0rem;
+    background-color:rgb(141, 63, 141);
+    border-radius: 10px;
+}
+nav{
+    position: fixed;
+}
+.mynav:hover{
+    background-color: blue;
+    color: white;
+    margin-right: 1rem;
+    border-radius: 10px;
+}
+.boy{
+    background-color: violet;
+}
+.symbol{
+    height: 25px;
+    text-align: center;
+}
+.food{
+    text-align: center;
+}
+.color{
+    background-color: rgb(141, 63, 141);
+    border-radius: 20px;
+    padding: 0.5rem 0;
+    margin: 2rem 0;
+    color: white;
+    text-align: center;
+}

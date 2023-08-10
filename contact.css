@@ -1,0 +1,60 @@
+#mycontact{
+    text-align: center;
+ }
+ .mycontact{
+    background-color: rgb(141, 63, 141);
+    color: white;
+    font-size: 40px;
+    border-radius: 20px;
+    padding: 0.5rem 0;
+    margin: 2rem 0;
+}
+.social{
+    display: flex;
+    justify-content: center;
+}
+.left{
+    color: white;
+    text-align: center;
+    padding:4rem 0;
+    border-radius: 10px;
+    background-color: rgb(141, 63, 141);
+    t
+}
+
+.myicon{
+    font-size: 30px;
+    margin: 1rem;
+}
+.mynav:hover{
+    background-color: blue;
+    color: white;
+    margin-right: 1rem;
+    border-radius: 10px;
+}
+.myicon{
+    font-size: 40px;
+    margin: 1rem;
+}
+.roblox{
+    height: 50px;
+}
+.myicon{
+    height: 50px;
+}
+.boy{
+    background-color: violet;
+}
+.nama{
+    background-color:rgb(141, 63, 141);
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+.meal{
+    height: 50px;
+}
+.food{
+    text-align: center;
+    height: 25px;
+}
